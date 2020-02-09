@@ -3,6 +3,7 @@
         <h1>
             Your score is {{correct}} out of {{total}}
         </h1>
+        <br>
         <h3>
             Thanks for using the app, it's my first app in VueJS.
         </h3>
