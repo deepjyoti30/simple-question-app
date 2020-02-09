@@ -1,5 +1,5 @@
 {
-  "name": "simpleapp",
+  "name": "simple-question-app",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -37,5 +37,8 @@
   "browserslist": [
     "> 1%",
     "last 2 versions"
-  ]
+  ],
+  "engines": {
+    "node": "11.15.x"
+  }
 }
