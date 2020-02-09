@@ -1,4 +1,4 @@
-# simpleapp
+# Simple Question App
 
 ## Project setup
 ```
